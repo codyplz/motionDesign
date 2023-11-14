@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Base" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353.79 356.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="230.31" y="172.57" width="10.98" height="10.98"/>
+  <path class="cls-1" d="M176.91,1.15C79.21,1.15,0,80.36,0,178.06s79.21,176.91,176.91,176.91,176.91-79.21,176.91-176.91S274.61,1.15,176.91,1.15Zm73.25,257.24H113.6v-13.15h-9.94v-13h9.94v-17.34h-9.94v-13h9.94v-17.34h-9.94v-13h9.94v-17.34h-9.94v-13h9.94v-17.34h-9.94v-13h9.94v-13.15H250.16v160.67Z"/>
+  <rect class="cls-1" x="230.31" y="106.59" width="10.98" height="10.98"/>
+  <rect class="cls-1" x="230.31" y="194.56" width="10.98" height="10.98"/>
+  <rect class="cls-1" x="230.31" y="128.59" width="10.98" height="10.98"/>
+  <rect class="cls-1" x="230.31" y="150.58" width="10.98" height="10.98"/>
+  <rect class="cls-1" x="230.31" y="216.56" width="10.98" height="10.98"/>
+  <circle class="cls-1" cx="175" cy="163.97" r="15.53" transform="translate(-32.99 44.59) rotate(-13.28)"/>
+  <path class="cls-1" d="M200.51,204.79c0-13.3-9.04-22.27-25.52-22.27s-25.51,8.97-25.51,22.27v2.9h51.02v-2.9Z"/>
+  <rect class="cls-1" x="230.31" y="238.55" width="10.98" height="10.98"/>
+</svg>
